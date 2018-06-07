@@ -24,3 +24,13 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -Xms1000m -Xmx3000m -X
 
 !ENTRY org.eclipse.equinox.security 1 0 2018-05-22 13:50:50.635
 !MESSAGE New keyring password generated. 
+!SESSION 2018-06-07 12:02:51.961 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -Xms1000m -Xmx3000m -Xss4m
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -Xms1000m -Xmx3000m -Xss4m
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-06-07 12:03:11.801
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
