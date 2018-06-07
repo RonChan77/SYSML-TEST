@@ -1,0 +1,11 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+//org.eclipse.ui.commands/state/org.polarsys.capella.common.tools.report.appenders.reportlogview.logview.group/org.eclipse.ui.commands.radioState=CATEGORY
+//org.eclipse.ui.commands/state/org.polarsys.capella.common.tools.report.appenders.reportlogview.logview.selectionfilter/org.eclipse.ui.commands.radioState=ALL
+ENABLED_DECORATORS=org.polarsys.capella.common.re.ui.decorators.text\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:true,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.team.cvs.ui.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.polarsys.capella.common.menu.dynamic.CapellaScmDecorator\:true,
+OPEN_PERSPECTIVE_MODE=2
+RUN_IN_BACKGROUND=true
+UIActivities.org.eclipse.debugSupport=true
+UIActivities.org.eclipse.team.cvs=true
+UIActivities.org.polarsys.capella.core.hidden.activity=true
+eclipse.preferences.version=1
+overridepresentation=true

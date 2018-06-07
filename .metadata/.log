@@ -1,0 +1,26 @@
+!SESSION 2018-05-18 10:56:16.036 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -Xms1000m -Xmx3000m -Xss4m
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -Xms1000m -Xmx3000m -Xss4m
+
+!ENTRY org.eclipse.ui.navigator 4 0 2018-05-18 16:34:17.376
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "P/Test".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2018-05-18 16:34:17.527
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "P/Test".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2018-05-18 16:34:20.537
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "P/Test".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+!SESSION 2018-05-22 08:58:50.699 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -Xms1000m -Xmx3000m -Xss4m
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -Xms1000m -Xmx3000m -Xss4m
+
+!ENTRY org.eclipse.equinox.security 1 0 2018-05-22 13:50:50.635
+!MESSAGE New keyring password generated. 
