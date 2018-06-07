@@ -2,4 +2,8 @@ Test 1. Original text.
 
 Test 2. Line to be committed.
 
+Test 3. Line to NOT be committed.
+
+Test 4. Branching! WOOHOOOO. Only the new branch will have this information. The master should not get this update
+
 Test 5. still testing branching. "Fixed" an error.
